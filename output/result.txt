@@ -1,0 +1,3 @@
+banana: 312.0 kcal
+
+Total calories: 312.00 kcal

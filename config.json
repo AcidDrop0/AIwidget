@@ -1,0 +1,57 @@
+{
+  "conversions": {
+    "weightGrams": {
+      "kg": 1000,
+      "mg": 0.001,
+      "lb": 453.592,
+      "oz": 28.3495,
+      "cup": 236.588
+    },
+    "volumeML": {
+      "l": 1000,
+      "cup": 236.588,
+      "pint": 473.176,
+      "quart": 946.353,
+      "gallon": 3785.41,
+      "tbsp": 14.7868,
+      "tsp": 4.92892,
+      "ozfl": 29.5735
+    }
+  },
+  "unit_aliases": {
+    "cups": "cup",
+    "tablespoons": "tbsp",
+    "tbsps": "tbsp",
+    "teaspoons": "tsp",
+    "tsps": "tsp",
+    "quarts": "quart",
+    "gallons": "gallon",
+    "pints": "pint",
+    "gram": "g",
+    "grams": "g",
+    "kilogram": "kg",
+    "kilograms": "kg",
+    "milligram": "mg",
+    "milligrams": "mg",
+    "liter": "l",
+    "liters": "l",
+    "milliliter": "ml",
+    "milliliters": "ml",
+    "ounce": "oz",
+    "ounces": "oz",
+    "pound": "lb",
+    "pounds": "lb"
+  },
+  "nutrients": [
+    "Calories",
+    "Protein",
+    "Fat",
+    "Carbohydrate",
+    "Sugar",
+    "Fiber",
+    "Cholesterol",
+    "Sodium",
+    "Calcium",
+    "Iron"
+  ]
+}
